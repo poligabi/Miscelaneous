@@ -1,4 +1,4 @@
-#Copia e cola tudo
+#Copia e cola tudo. Ref. http://www.theanalyticslab.nl/2016/12/30/fireworks-in-r/
 
 library(ggplot2)
 rm(list = ls())
